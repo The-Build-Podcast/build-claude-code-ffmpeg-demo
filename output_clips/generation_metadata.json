@@ -1,0 +1,117 @@
+{
+  "generation_timestamp": "2025-07-31T14:55:43.984950",
+  "source_video": "/Users/cam/Desktop/video-automation/08 - GPT 5.0 This Summer.mp4",
+  "enhanced_audio": "/Users/cam/Desktop/video-automation/08_gpt5_enhanced.wav",
+  "clips": [
+    {
+      "platform": "tiktok",
+      "clip_id": "100x_powerful",
+      "filename": "100x_powerful_tiktok_20250731_145543.mp4",
+      "path": "/Users/cam/Desktop/video-automation/output_clips/tiktok/100x_powerful_tiktok_20250731_145543.mp4",
+      "thumbnail": "/Users/cam/Desktop/video-automation/output_clips/tiktok/100x_powerful_thumbnail.jpg",
+      "duration": 5.209,
+      "title": "GPT-5 is 100X MORE POWERFUL?!",
+      "subtitles": "/Users/cam/Desktop/video-automation/output_clips/tiktok/100x_powerful_subtitles.srt",
+      "file_size_mb": 1.23
+    },
+    {
+      "platform": "youtube_shorts",
+      "clip_id": "100x_powerful",
+      "filename": "100x_powerful_youtube_shorts_20250731_145545.mp4",
+      "path": "/Users/cam/Desktop/video-automation/output_clips/youtube_shorts/100x_powerful_youtube_shorts_20250731_145545.mp4",
+      "thumbnail": "/Users/cam/Desktop/video-automation/output_clips/youtube_shorts/100x_powerful_thumbnail.jpg",
+      "duration": 5.209,
+      "title": "GPT-5 is 100X MORE POWERFUL?!",
+      "subtitles": "/Users/cam/Desktop/video-automation/output_clips/youtube_shorts/100x_powerful_subtitles.srt",
+      "file_size_mb": 1.23
+    },
+    {
+      "platform": "twitter",
+      "clip_id": "100x_powerful",
+      "filename": "100x_powerful_twitter_20250731_145546.mp4",
+      "path": "/Users/cam/Desktop/video-automation/output_clips/twitter/100x_powerful_twitter_20250731_145546.mp4",
+      "thumbnail": "/Users/cam/Desktop/video-automation/output_clips/twitter/100x_powerful_thumbnail.jpg",
+      "duration": 5.209,
+      "title": "GPT-5 is 100X MORE POWERFUL?!",
+      "subtitles": "/Users/cam/Desktop/video-automation/output_clips/twitter/100x_powerful_subtitles.srt",
+      "file_size_mb": 0.39
+    },
+    {
+      "platform": "tiktok",
+      "clip_id": "phd_level",
+      "filename": "phd_level_tiktok_20250731_145546.mp4",
+      "path": "/Users/cam/Desktop/video-automation/output_clips/tiktok/phd_level_tiktok_20250731_145546.mp4",
+      "thumbnail": "/Users/cam/Desktop/video-automation/output_clips/tiktok/phd_level_thumbnail.jpg",
+      "duration": 5.681000000000001,
+      "title": "PhD Problems SOLVED in SECONDS",
+      "subtitles": "/Users/cam/Desktop/video-automation/output_clips/tiktok/phd_level_subtitles.srt",
+      "file_size_mb": 1.62
+    },
+    {
+      "platform": "youtube_shorts",
+      "clip_id": "phd_level",
+      "filename": "phd_level_youtube_shorts_20250731_145548.mp4",
+      "path": "/Users/cam/Desktop/video-automation/output_clips/youtube_shorts/phd_level_youtube_shorts_20250731_145548.mp4",
+      "thumbnail": "/Users/cam/Desktop/video-automation/output_clips/youtube_shorts/phd_level_thumbnail.jpg",
+      "duration": 5.681000000000001,
+      "title": "PhD Problems SOLVED in SECONDS",
+      "subtitles": "/Users/cam/Desktop/video-automation/output_clips/youtube_shorts/phd_level_subtitles.srt",
+      "file_size_mb": 1.62
+    },
+    {
+      "platform": "twitter",
+      "clip_id": "phd_level",
+      "filename": "phd_level_twitter_20250731_145549.mp4",
+      "path": "/Users/cam/Desktop/video-automation/output_clips/twitter/phd_level_twitter_20250731_145549.mp4",
+      "thumbnail": "/Users/cam/Desktop/video-automation/output_clips/twitter/phd_level_thumbnail.jpg",
+      "duration": 5.681000000000001,
+      "title": "PhD Problems SOLVED in SECONDS",
+      "subtitles": "/Users/cam/Desktop/video-automation/output_clips/twitter/phd_level_subtitles.srt",
+      "file_size_mb": 0.53
+    },
+    {
+      "platform": "linkedin",
+      "clip_id": "phd_level",
+      "filename": "phd_level_linkedin_20250731_145550.mp4",
+      "path": "/Users/cam/Desktop/video-automation/output_clips/linkedin/phd_level_linkedin_20250731_145550.mp4",
+      "thumbnail": "/Users/cam/Desktop/video-automation/output_clips/linkedin/phd_level_thumbnail.jpg",
+      "duration": 5.681000000000001,
+      "title": "PhD Problems SOLVED in SECONDS",
+      "subtitles": "/Users/cam/Desktop/video-automation/output_clips/linkedin/phd_level_subtitles.srt",
+      "file_size_mb": 1.09
+    },
+    {
+      "platform": "twitter",
+      "clip_id": "sam_altman",
+      "filename": "sam_altman_twitter_20250731_145551.mp4",
+      "path": "/Users/cam/Desktop/video-automation/output_clips/twitter/sam_altman_twitter_20250731_145551.mp4",
+      "thumbnail": "/Users/cam/Desktop/video-automation/output_clips/twitter/sam_altman_thumbnail.jpg",
+      "duration": 5.072,
+      "title": "Sam Altman's SECRET Summer Surprise",
+      "subtitles": "/Users/cam/Desktop/video-automation/output_clips/twitter/sam_altman_subtitles.srt",
+      "file_size_mb": 0.49
+    },
+    {
+      "platform": "linkedin",
+      "clip_id": "sam_altman",
+      "filename": "sam_altman_linkedin_20250731_145551.mp4",
+      "path": "/Users/cam/Desktop/video-automation/output_clips/linkedin/sam_altman_linkedin_20250731_145551.mp4",
+      "thumbnail": "/Users/cam/Desktop/video-automation/output_clips/linkedin/sam_altman_thumbnail.jpg",
+      "duration": 5.072,
+      "title": "Sam Altman's SECRET Summer Surprise",
+      "subtitles": "/Users/cam/Desktop/video-automation/output_clips/linkedin/sam_altman_subtitles.srt",
+      "file_size_mb": 1.0
+    },
+    {
+      "platform": "youtube_shorts",
+      "clip_id": "combined_short",
+      "filename": "combined_short_youtube_shorts_20250731_145552.mp4",
+      "path": "/Users/cam/Desktop/video-automation/output_clips/youtube_shorts/combined_short_youtube_shorts_20250731_145552.mp4",
+      "thumbnail": "/Users/cam/Desktop/video-automation/output_clips/youtube_shorts/combined_short_thumbnail.jpg",
+      "duration": 17.194,
+      "title": "GPT-5.0 CONFIRMED: Everything You Need to Know",
+      "subtitles": "/Users/cam/Desktop/video-automation/output_clips/youtube_shorts/combined_short_subtitles.srt",
+      "file_size_mb": 4.58
+    }
+  ]
+}

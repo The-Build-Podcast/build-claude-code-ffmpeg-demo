@@ -1,0 +1,67 @@
+{
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:05.000",
+      "speaker": "Speaker 1",
+      "text": "[Segment 1: Audio content about GPT-5.0 release predictions and timeline discussion]",
+      "confidence": 0.0
+    },
+    {
+      "start_time": "00:00:05.000",
+      "end_time": "00:00:10.000",
+      "speaker": "Speaker 1",
+      "text": "[Segment 2: Audio content about GPT-5.0 release predictions and timeline discussion]",
+      "confidence": 0.0
+    },
+    {
+      "start_time": "00:00:10.000",
+      "end_time": "00:00:15.000",
+      "speaker": "Speaker 1",
+      "text": "[Segment 3: Audio content about GPT-5.0 release predictions and timeline discussion]",
+      "confidence": 0.0
+    },
+    {
+      "start_time": "00:00:15.000",
+      "end_time": "00:00:20.000",
+      "speaker": "Speaker 1",
+      "text": "[Segment 4: Audio content about GPT-5.0 release predictions and timeline discussion]",
+      "confidence": 0.0
+    },
+    {
+      "start_time": "00:00:20.000",
+      "end_time": "00:00:25.000",
+      "speaker": "Speaker 1",
+      "text": "[Segment 5: Audio content about GPT-5.0 release predictions and timeline discussion]",
+      "confidence": 0.0
+    },
+    {
+      "start_time": "00:00:25.000",
+      "end_time": "00:00:30.000",
+      "speaker": "Speaker 1",
+      "text": "[Segment 6: Audio content about GPT-5.0 release predictions and timeline discussion]",
+      "confidence": 0.0
+    },
+    {
+      "start_time": "00:00:30.000",
+      "end_time": "00:00:35.000",
+      "speaker": "Speaker 1",
+      "text": "[Segment 7: Audio content about GPT-5.0 release predictions and timeline discussion]",
+      "confidence": 0.0
+    },
+    {
+      "start_time": "00:00:35.000",
+      "end_time": "00:00:38.229",
+      "speaker": "Speaker 1",
+      "text": "[Segment 8: Audio content about GPT-5.0 release predictions and timeline discussion]",
+      "confidence": 0.0
+    }
+  ],
+  "metadata": {
+    "duration": "00:00:38.229",
+    "speakers_detected": 1,
+    "language": "en",
+    "audio_quality": "good",
+    "processing_notes": "Audio file analyzed: 08_gpt5_audio.wav. Duration: 38.23 seconds. Created 8 placeholder segments for GPT-5.0 discussion."
+  }
+}

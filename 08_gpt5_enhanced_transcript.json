@@ -1,0 +1,96 @@
+{
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:05.841",
+      "speaker": "Speaker 1",
+      "text": "[Speech segment 1: Opening/Introduction about GPT-5.0 - Duration: 5.8s]",
+      "confidence": 0.0,
+      "audio_characteristics": {
+        "segment_duration": "5.84s",
+        "relative_position": "0.0%"
+      }
+    },
+    {
+      "start_time": "00:00:06.367",
+      "end_time": "00:00:11.439",
+      "speaker": "Speaker 1",
+      "text": "[Speech segment 2: Likely discussing release timeline about GPT-5.0 - Duration: 5.1s]",
+      "confidence": 0.0,
+      "audio_characteristics": {
+        "segment_duration": "5.07s",
+        "relative_position": "16.7%"
+      }
+    },
+    {
+      "start_time": "00:00:12.145",
+      "end_time": "00:00:17.354",
+      "speaker": "Speaker 1",
+      "text": "[Speech segment 3: Likely discussing release timeline about GPT-5.0 - Duration: 5.2s]",
+      "confidence": 0.0,
+      "audio_characteristics": {
+        "segment_duration": "5.21s",
+        "relative_position": "31.8%"
+      }
+    },
+    {
+      "start_time": "00:00:17.880",
+      "end_time": "00:00:23.561",
+      "speaker": "Speaker 1",
+      "text": "[Speech segment 4: Potential features or capabilities discussion about GPT-5.0 - Duration: 5.7s]",
+      "confidence": 0.0,
+      "audio_characteristics": {
+        "segment_duration": "5.68s",
+        "relative_position": "46.8%"
+      }
+    },
+    {
+      "start_time": "00:00:24.556",
+      "end_time": "00:00:27.342",
+      "speaker": "Speaker 1",
+      "text": "[Speech segment 5: Brief statement or transition, Potential features or capabilities discussion about GPT-5.0 - Duration: 2.8s]",
+      "confidence": 0.0,
+      "audio_characteristics": {
+        "segment_duration": "2.79s",
+        "relative_position": "64.2%"
+      }
+    },
+    {
+      "start_time": "00:00:28.857",
+      "end_time": "00:00:29.725",
+      "speaker": "Speaker 1",
+      "text": "[Speech segment 6: Brief statement or transition, Implications or predictions about GPT-5.0 - Duration: 0.9s]",
+      "confidence": 0.0,
+      "audio_characteristics": {
+        "segment_duration": "0.87s",
+        "relative_position": "75.5%"
+      }
+    },
+    {
+      "start_time": "00:00:30.444",
+      "end_time": "00:00:38.230",
+      "speaker": "Speaker 1",
+      "text": "[Speech segment 7: Closing remarks, Implications or predictions about GPT-5.0 - Duration: 7.8s]",
+      "confidence": 0.0,
+      "audio_characteristics": {
+        "segment_duration": "7.79s",
+        "relative_position": "79.6%"
+      }
+    }
+  ],
+  "metadata": {
+    "duration": "00:00:38.230",
+    "speakers_detected": 1,
+    "language": "en",
+    "audio_quality": "good",
+    "audio_analysis": {
+      "total_duration": "38.23s",
+      "speech_segments_detected": 7,
+      "total_speech_time": "33.24s",
+      "speech_percentage": "87.0%",
+      "mean_volume": "-26.0 dB",
+      "max_volume": "-9.2 dB"
+    },
+    "processing_notes": "Enhanced audio analysis completed. Detected 7 distinct speech segments based on silence detection. The audio appears to be a single speaker discussing GPT-5.0 release predictions."
+  }
+}

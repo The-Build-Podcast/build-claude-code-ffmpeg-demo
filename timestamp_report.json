@@ -1,0 +1,130 @@
+{
+  "segments": [
+    {
+      "segment_id": "segment_001",
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:00.983",
+      "start_frame": 0,
+      "end_frame": 29,
+      "fade_in_duration": 0.5,
+      "fade_out_duration": 0.3,
+      "silence_padding": {
+        "before": 0.05,
+        "after": 0.05
+      },
+      "boundary_type": "file_start",
+      "confidence": 0.98
+    },
+    {
+      "segment_id": "segment_002",
+      "start_time": "00:00:01.537",
+      "end_time": "00:00:27.316",
+      "start_frame": 46,
+      "end_frame": 819,
+      "fade_in_duration": 0.3,
+      "fade_out_duration": 0.3,
+      "silence_padding": {
+        "before": 0.05,
+        "after": 0.05
+      },
+      "boundary_type": "natural_pause",
+      "confidence": 0.98
+    },
+    {
+      "segment_id": "segment_003",
+      "start_time": "00:00:28.938",
+      "end_time": "00:00:29.683",
+      "start_frame": 868,
+      "end_frame": 890,
+      "fade_in_duration": 0.3,
+      "fade_out_duration": 0.3,
+      "silence_padding": {
+        "before": 0.05,
+        "after": 0.05
+      },
+      "boundary_type": "natural_pause",
+      "confidence": 0.98
+    },
+    {
+      "segment_id": "segment_004",
+      "start_time": "00:00:30.521",
+      "end_time": "00:00:31.024",
+      "start_frame": 915,
+      "end_frame": 930,
+      "fade_in_duration": 0.3,
+      "fade_out_duration": 0.3,
+      "silence_padding": {
+        "before": 0.05,
+        "after": 0.05
+      },
+      "boundary_type": "natural_pause",
+      "confidence": 0.98
+    },
+    {
+      "segment_id": "segment_005",
+      "start_time": "00:00:31.333",
+      "end_time": "00:00:31.546",
+      "start_frame": 940,
+      "end_frame": 946,
+      "fade_in_duration": 0.3,
+      "fade_out_duration": 0.3,
+      "silence_padding": {
+        "before": 0.05,
+        "after": 0.05
+      },
+      "boundary_type": "natural_pause",
+      "confidence": 0.98
+    },
+    {
+      "segment_id": "segment_006",
+      "start_time": "00:00:31.855",
+      "end_time": "00:00:32.221",
+      "start_frame": 955,
+      "end_frame": 966,
+      "fade_in_duration": 0.3,
+      "fade_out_duration": 0.3,
+      "silence_padding": {
+        "before": 0.05,
+        "after": 0.05
+      },
+      "boundary_type": "natural_pause",
+      "confidence": 0.98
+    },
+    {
+      "segment_id": "segment_007",
+      "start_time": "00:00:32.623",
+      "end_time": "00:00:35.715",
+      "start_frame": 978,
+      "end_frame": 1071,
+      "fade_in_duration": 0.3,
+      "fade_out_duration": 0.3,
+      "silence_padding": {
+        "before": 0.05,
+        "after": 0.05
+      },
+      "boundary_type": "natural_pause",
+      "confidence": 0.98
+    },
+    {
+      "segment_id": "segment_008",
+      "start_time": "00:00:36.165",
+      "end_time": "00:00:38.229",
+      "start_frame": 1084,
+      "end_frame": 1146,
+      "fade_in_duration": 0.3,
+      "fade_out_duration": 0.5,
+      "silence_padding": {
+        "before": 0.05,
+        "after": 0.05
+      },
+      "boundary_type": "file_end",
+      "confidence": 0.98
+    }
+  ],
+  "video_info": {
+    "fps": 30.0,
+    "total_frames": 1146,
+    "duration": "00:38.229"
+  },
+  "analysis_notes": "Enhanced audio analyzed with frame-accurate timestamps. Silence threshold: -18dB, minimum duration: 0.2s. Natural speech boundaries preserved with 50ms padding."
+}
